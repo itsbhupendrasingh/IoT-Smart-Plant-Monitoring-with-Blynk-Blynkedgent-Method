@@ -1,3 +1,3 @@
 # IoT-Smart-Plant-Monitoring-with-Blynk-IoT
 
-for complete video tutorials- visit https://youtu.be/xfSH1bzQFX8
+Watch and Follow the complete tutorials as shown in the [Video in Youtube](https://youtu.be/xfSH1bzQFX8)
